@@ -1,0 +1,44 @@
+AH00112: Warning: DocumentRoot [/var/www/html/] does not exist
+AH00112: Warning: DocumentRoot [/var/www/b2b/] does not exist
+AH00112: Warning: DocumentRoot [/var/www/intranet/] does not exist
+AH00112: Warning: DocumentRoot [/var/www/www/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 14 19:56:08.177293 2016] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Mon Mar 14 19:56:08.177379 2016] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon Mar 14 20:16:34.166321 2016] [mpm_prefork:notice] [pid 7] AH00171: Graceful restart requested, doing restart
+AH00112: Warning: DocumentRoot [/var/www/html/] does not exist
+AH00112: Warning: DocumentRoot [/var/www/b2b/] does not exist
+AH00112: Warning: DocumentRoot [/var/www/intranet/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 14 20:16:34.257240 2016] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Mon Mar 14 20:16:34.257255 2016] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon Mar 14 20:17:05.003175 2016] [mpm_prefork:notice] [pid 7] AH00171: Graceful restart requested, doing restart
+AH00112: Warning: DocumentRoot [/var/www/html/] does not exist
+AH00112: Warning: DocumentRoot [/var/www/b2b/] does not exist
+AH00112: Warning: DocumentRoot [/var/www/intranet/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 14 20:17:05.072479 2016] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Mon Mar 14 20:17:05.072493 2016] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon Mar 14 20:19:39.921307 2016] [mpm_prefork:notice] [pid 7] AH00171: Graceful restart requested, doing restart
+AH00112: Warning: DocumentRoot [/var/www/html/] does not exist
+AH00112: Warning: DocumentRoot [/var/www/b2b/] does not exist
+AH00112: Warning: DocumentRoot [/var/www/intranet/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 14 20:19:40.011144 2016] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Mon Mar 14 20:19:40.011159 2016] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon Mar 14 20:19:51.744040 2016] [mpm_prefork:notice] [pid 7] AH00171: Graceful restart requested, doing restart
+AH00112: Warning: DocumentRoot [/var/www/html/] does not exist
+AH00112: Warning: DocumentRoot [/var/www/b2b/] does not exist
+AH00112: Warning: DocumentRoot [/var/www/intranet/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 14 20:19:51.806178 2016] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Mon Mar 14 20:19:51.806192 2016] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon Mar 14 23:17:16.979770 2016] [mpm_prefork:notice] [pid 7] AH00171: Graceful restart requested, doing restart
+AH00112: Warning: DocumentRoot [/var/www/html/] does not exist
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Mar 14 23:17:17.086470 2016] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Mon Mar 14 23:17:17.086495 2016] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon Mar 14 23:20:20.121476 2016] [access_compat:error] [pid 317] [client 85.201.120.88:50726] AH01797: client denied by server configuration: /var/www/intranet/
+[Mon Mar 14 23:20:20.177272 2016] [access_compat:error] [pid 317] [client 85.201.120.88:50726] AH01797: client denied by server configuration: /var/www/intranet/favicon.ico
+[Mon Mar 14 23:20:20.400166 2016] [access_compat:error] [pid 317] [client 85.201.120.88:50726] AH01797: client denied by server configuration: /var/www/intranet/favicon.ico, referer: http://intranet.wt5.ephec-ti.be/
+[Mon Mar 14 23:20:22.834939 2016] [access_compat:error] [pid 317] [client 85.201.120.88:50726] AH01797: client denied by server configuration: /var/www/intranet/favicon.ico
